@@ -3,8 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h3>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;
-    Korean%20digital%20nomad;Constantly%20perfecting%20my%20craft&font=Fira%20Code&center=true&width=440&height=45&color=b8bb26&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&color=%23B8BB26&size=22&center=true&lines=Full-stack+web+developer;Korean+digital+nomad;Constantly+perfecting+my+craft">
 </p>
 
 <p align="center">
