@@ -7,11 +7,14 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/jiseungjung-%23E4405F.svg?logo=Instagram&logoColor=white">
-    <img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?logo=kakaotalk&logoColor=white">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?logo=Freelancer&logoColor=white">
+    <a href="https://www.linkedin.com/in/jiseungjung/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+    <a href="https://wa.me/6282147704180?text=">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"></a>
+    <a href="https://wa.me/6282147704180?text=">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"></a>
+    <a href="https://www.instagram.com/jiseungjung_">
+    <img src="https://img.shields.io/badge/jiseungjung__-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 </p>
 
 
@@ -20,7 +23,7 @@
 <p align="left">
     <a href="https://github.com/Telos-J/covid19-simulation"><img width="282" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Telos-J&repo=covid19-simulation&theme=react&bg_color=282828&title_color=fabd2f&icon_color=fe8019&hide_border=true&show_icons=false" alt="fishing-game"></a>
     <a href="https://github.com/Telos-J/visualize-javascript"><img width="282" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Telos-J&repo=visualize-javascript&theme=react&bg_color=282828&title_color=fabd2f&icon_color=fe8019&hide_border=true&show_icons=false" alt="fishing-game"></a>
-    <a href="https://github.com/Telos-J/fishing-game"><img width="282" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Telos-J&repo=fishing-game&theme=react&bg_color=282828&title_color=fabd2f&icon_color=fe8019&hide_border=true&show_icons=false" alt="fishing-game"></a>
+    <a href="https://github.com/Telos-J/fishing-game"><img width="282" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Telos-J&repo=overfishing-educational-game&theme=react&bg_color=282828&title_color=fabd2f&icon_color=fe8019&hide_border=true&show_icons=false" alt="fishing-game"></a>
     <a href="https://github.com/Telos-J/social-companion"><img width="282" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Telos-J&repo=social-companion&theme=react&bg_color=282828&title_color=fabd2f&icon_color=fe8019&hide_border=true&show_icons=false" alt="fishing-game"></a>
 </p>
 
@@ -90,4 +93,3 @@
 ## 📊 Github stats
 
 ![Jiseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiseungjung&show_icons=true&theme=gruvbox&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseungjung&layout=compact&theme=gruvbox)
