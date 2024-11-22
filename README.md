@@ -92,4 +92,4 @@
 
 ## 📊 Github stats
 
-![Jiseung's GitHub stats](https://github-readme-stats-beta-cyan.vercel.app/api?username=jiseungjung&show_icons=true&theme=gruvbox&hide=stars&count_private=true&cache_seconds=0)
+![Jiseung's GitHub stats](https://github-readme-stats-beta-cyan.vercel.app/api?username=jiseungjung&include_all_commits=true&show_icons=true&theme=gruvbox&hide=stars&count_private=true&cache_seconds=0)
